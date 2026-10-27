@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language curated collection of Claude Code skills: 438+ curated skills plus 20 original skills, with a companion website.
 
 
 ## 🤝 Contribution
